@@ -7,4 +7,11 @@ public class Boss {
     private int id;
     public Boss() {
     }
+
+    @Override
+    public String toString() {
+        return "Boss{" +
+                "id=" + id +
+                '}';
+    }
 }
