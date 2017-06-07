@@ -7,4 +7,12 @@ public class Boss {
     private int id;
     public Boss() {
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 }
