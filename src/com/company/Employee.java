@@ -5,4 +5,5 @@ package com.company;
  */
 public class Employee {
    public static final String  SASHA = "Sanek";
+    private String age;
 }
